@@ -13,4 +13,4 @@ I mostly develop on private Git instances and only open source selected work on 
 
 ## Elsewhere
 
-- LinkedIn: `https://www.linkedin.com/in/gabor-veres-6292573a5/`
+- LinkedIn: [gabor-veres-6292573a5](https://www.linkedin.com/in/gabor-veres-6292573a5/)
